@@ -19,7 +19,7 @@ We also rely on github for daily updates about this
 We continue to provide the best to update and keep everyone safe
 
 
-* Update List *
+* Changelog 
 1. New heuristics measures
 2. Layers advancement
 3. Bug fixes
